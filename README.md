@@ -1,16 +1,43 @@
-### Hi there 👋
+>>> INSTALLATION = (TERMUX APP ANDROID) 
 
-<!--
-**NISscan/NISscan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    $ git clone https://github.com/NISscan/NISscan.git
+    $ cd NISscan/
+    $ chmod 777 *
+    $ ./Android-Setup.sh
+    $ ./NISscan.sh
 
-Here are some ideas to get you started:
+>>> INSTALLATION = (KALI) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    # git clone https://github.com/NISscan/NISscan.git
+    # cd NISscan/
+    # chmod 777 *
+    # ./Linux-Setup.sh
+    # ./NISscan.sh
+
+>>> AVAILABLE TUNNELLING OPTIONS
+
+    LOCALHOST
+    NGROK (https://ngrok.com/)
+
+>>> TESTED ON FOLLOWING:-
+
+    Kali Linux - 2020.1a (version)
+    Parrot OS - Rolling Edition (version)
+    Ubuntu - 18.04 (version)
+    Arch Linux
+    Termux App
+
+>>> PREREQUISITES
+
+    sudo - [ MUST ]
+    php
+    apache2
+    ngrok Token
+    
+>>> PROGRAMMING
+
+    shell
+    
+                                                       
+                                                               ***If You Like Than Give Me Feedback***
+           
